@@ -1,1 +1,1 @@
-lorum ipsumh
+The importance of a devops engineer in the software development cycle is help software delivery with the use of automation. This establishes the collaboration of workflows in developemnt.
