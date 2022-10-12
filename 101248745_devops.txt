@@ -1,1 +1,1 @@
-lorum ipsumdd
+Comp3104 is about learning the devops processes. devops brings the cohesion of autonomous teams to fast paced, high-demanding environments. a devops engineer can help deploy products faster aswell as making sure those products have good reliability.
