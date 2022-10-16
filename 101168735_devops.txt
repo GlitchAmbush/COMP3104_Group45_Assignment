@@ -1,2 +1,2 @@
-DevOps
-it's a thing
+DevOps - COMP3104
+> Course within GBC Program - Computer Programming and Analysis
